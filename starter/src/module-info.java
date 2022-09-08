@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author FDG
+ *
+ */
+module starter {
+}
